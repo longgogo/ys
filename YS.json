@@ -60,8 +60,6 @@
 
 {"key": "快车资源","name": "无界🌏快车影视","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": " https://gitee.com/zhangsilu159/box/raw/master/jar/无界.jar"},
 
-{"key": "低端","name": "低端影视","type": 3,"playerType": "2","api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext": "http://dt.xn--yety82d.love/js/ddys.js","jar": "http://happy.xn--z7x900a.live/jar/PandaQ240315.jar;md5;335A5351ABE2FAB05554E5F067F34234"},
-
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/奇珍异兽.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/优酷.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/腾云驾雾.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
