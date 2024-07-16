@@ -3,8 +3,17 @@
 
 
 "lives": [
-{"name": "live","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/main/tv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}, ],
+			{"name": "自建直播源","type": 0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/main/tv.txt","playerType": 1},
+			{"name": "fanmingming/live ipv6","type": 0,"url": "https://iptv.b2og.com/fmml_ipv6.m3u","playerType": 1},  
+			{"name": "fanmingming/live domainv6(Invalid)","type": 0,"url": "https://iptv.b2og.com/fmml_dv6.m3u","playerType": 1},  
+			{"name": "YueChan-Live IPTV","type": 0,"url": "https://iptv.b2og.com/ycl_iptv.m3u","playerType": 1}, 
+			{"name": "YanG-1989 Gather","type": 0,"url": "https://iptv.b2og.com/y_g.m3u","playerType": 1},
+			{"name": "joevess/IPTV home","type": 0,"url": "https://iptv.b2og.com/j_home.m3u","playerType": 1},
+			{"name": "joevess/IPTV iptv","type": 0,"url": "https://iptv.b2og.com/j_iptv.m3u","playerType": 1}			
+		],		  
 
+	
+	
 
 "sites": [
 
