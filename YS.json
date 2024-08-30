@@ -1938,11 +1938,21 @@
 "parses": [
 	
            {"name": "解析聚合","type": 3,"url": "Demo"},
-	   {"name": "Web聚合","type": 3,"url": "Web"},
+	   //{"name": "Web聚合","type": 3,"url": "Web"},
 	   //{"name": "Json轮询","type": 2,"url": "Sequence"},
 	   //{"name": "Json并发","type": 2,"url": "Parallel"},
 
 
+{
+      "name": "-虾米-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
 {
       "name": "猫1",
       "type": 1,
@@ -2024,16 +2034,7 @@
         }
       }
     },
-    {
-      "name": "-虾米-",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-        }
-      }
-    },
+    
     {
       "name": "-爱酷-",
       "type": 0,
