@@ -453,7 +453,7 @@
 {"key":"csp_biubiu_555","name": "555(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext": 
 {"name": "555电影",
-  "url": "https://w55tv.com/",//https://wu5dy.com
+  "url": "https://6tvzone.com/",//https://wu5dy.com
   "tihuan": "cnzz.com",
   "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
