@@ -1046,7 +1046,7 @@
 {"key":"csp_biubiu_TVB云播","name": "TVB云播(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext": 
   {"name": "TVB云播",
-  "url": "http://www.tvyb03.com/",
+  "url": "http://www.tvyb10.com/",//tvyun01.com	  
   "User": "空",
   "shouye": "1",
   "fenlei": "电影$/vod/type/id/1/page/#电视剧$/vod/type/id/2/page/#综艺$/vod/type/id/3/page/#动漫$/vod/type/id/4/page/",
