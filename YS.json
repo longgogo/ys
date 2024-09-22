@@ -115,7 +115,7 @@
 {"key": "csp_moxmi","name": "💢乐美丨影视","type": 1,"api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list","playUrl": "json:http://iid.moxmi.top:81/gg.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar","categories": ["电影","剧集","综艺","动漫","短剧"]},
 
 {"key": "555影院","name": "⚡555┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "https://e3wuwu4.com/api.php/app/"},
-{"key": "哔嘀影视","name": "🧲哔嘀影视┃磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "
+{"key": "哔嘀影视","name": "🧲哔嘀影视┃磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": 
 {
     "规则名": "哔嘀影视",
     "规则作者": "",
@@ -194,8 +194,8 @@
     "分析MacPlayer": "0",
     "是否开启手动嗅探": "1",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos#item/video#video_mp4",
-    "手动嗅探视频链接过滤词": ".html#=http"}"},
-{"key": "在线之家","name": "在线之家","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "
+    "手动嗅探视频链接过滤词": ".html#=http"}},
+{"key": "在线之家","name": "在线之家","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":
 {
     "规则名": "在线之家",
     "规则作者": "香雅情",
@@ -269,7 +269,7 @@
     "是否开启手动嗅探": "0",
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
     "手动嗅探视频链接过滤词": ".html#=http"
-}"},  	
+}},  	
 	
 {"key":"csp_biubiu_FREEOK","name": "FREEOK(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://5403.kstore.space/Jar/zy2.jar",
 "ext":{
@@ -1071,68 +1071,6 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""}},
 
-{"key":"csp_biubiu_视中心影院","name": "视中心影院(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
-"ext": 
-{"name": "视中心影院",
-  "url": "https://www.ksksy.com/",
-  "User": "空",
-  "shouye": "1",
-  "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#少儿$/vodshow/5--------",
-  "houzhui": "---.html",
-  "shifouercijiequ": "0",
-  "jiequqian": "空",
-  "jiequhou": "空",
-  "jiequshuzuqian": "class=\"module-item-pic",
-  "jiequshuzuhou": "</div>",
-  "tupianqian": "data-src=\"",
-  "tupianhou": "\"",
-  "biaotiqian": "title=\"",
-  "biaotihou": "\"",
-  "lianjieqian": "href=\"",
-  "lianjiehou": "\"",
-  "fubiaotiqian": "text-right\">",
-  "fubiaotihou": "</span",
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/voddetail/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"scroll-content",
-  "bfjiequshuzuhou": "</div>",
-  "zhuangtaiqian": "集数：</span>",
-  "zhuangtaihou": "</div>",
-  "daoyanqian": "导演：</span>",
-  "daoyanhou": "</div>",
-  "zhuyanqian": "主演：</span>",
-  "zhuyanhou": "</div>",
-  "juqingqian": "class=\"video-info-item video-info-content vod_content\">",
-  "juqinghou": "</div>",
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": "<span>",
-  "bfbiaotihou": "</span>",
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""}},
-
 {"key":"csp_biubiu_蜥蜴影视","name": "蜥蜴影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext": 
 {"name": "蜥蜴影视",
@@ -1505,18 +1443,16 @@
 
 {"key": "csp_苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar","ext": "https://d.kstore.space/download/5403/Json/苹果.json"},
 
-{"key": "MTV","name": "🎧明星┃MV","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitee.com/zhangsilu159/box/raw/master/json/mtv.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/饭太硬.jar"},
-
-{"key": "Biliych","name": "🅱明星┃演唱会","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://5403.kstore.space/Json/演唱会.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/饭太硬.jar"},
-
 {"key":"drpy_js_哔哩影视","name":"哔哩影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/哔哩影视.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},  
 {"key":"drpy_js_HDmoli","name":"影视 | HDmoli[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/HDmoli.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_人人影视","name":"影视 | 人人影视[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/人人影视.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/LIBVIO.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_小白菜儿","name":"影视 | 小白菜儿[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/小白菜电影.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
-{"key": "酷狗","name":"酷狗🎵音乐","type": 3,"api": "csp_Kugou","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/酷狗.jar","searchable": 1,"changeable": 0},
+//{"key": "MTV","name": "🎧明星┃MV","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitee.com/zhangsilu159/box/raw/master/json/mtv.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/饭太硬.jar"},
+{"key": "Biliych","name": "🅱明星┃演唱会","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://5403.kstore.space/Json/演唱会.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/饭太硬.jar"},	
 {"key": "MTV","name": "音乐🎵鉴赏","type": 3,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitee.com/zhangsilu159/box/raw/master/json/MTV.json"},	
+{"key": "酷狗","name":"酷狗🎵音乐","type": 3,"api": "csp_Kugou","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/酷狗.jar","searchable": 1,"changeable": 0},
 {"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/pg.jar"},
 
 
