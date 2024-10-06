@@ -270,7 +270,7 @@
     "手动嗅探视频链接过滤词": ".html#=http"
 }},
 
-{"key":"csp_biubiu_555","name": "555(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://5403.kstore.space/Jar/zy2.jar",
+{"key":"csp_biubiu_奈飞中文","name": "奈飞中文(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://5403.kstore.space/Jar/zy2.jar",
 "ext": {
   "name": "奈飞中文",
   "url": "https://www.naifei1.org/",
@@ -331,7 +331,7 @@
   "bfbiaotiqian": "<span>",
   "bfbiaotihou": "</span>",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""}},	
+  "bflianjiehou": "\""}},
 	
 {"key":"csp_biubiu_FREEOK","name": "FREEOK(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://5403.kstore.space/Jar/zy2.jar",
 "ext":{
