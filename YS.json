@@ -336,7 +336,7 @@
 {"key":"csp_biubiu_FREEOK","name": "FREEOK(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://5403.kstore.space/Jar/zy2.jar",
 "ext":{
 "name": "FREEOK",	
-"url": "https://www.freeok.vip/",//https://www.freeok.pro/	
+"url": "https://www.freeok.pro/",//https://www.freeok.vip/	
 "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
 "shouye": "1",	
