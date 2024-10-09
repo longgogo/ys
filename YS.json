@@ -1477,7 +1477,8 @@
 	   //{"name": "Json并发","type": 2,"url": "Parallel"},
 
 {"name": "💖分享主解a","type":1,"url":"http://6qu.us.kg/公众号六趣.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}, 
-	
+
+{"name": "8090g","url": "https://www.8090g.cn/jiexi/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"}},	
 {
       "name": "-虾米-",
       "type": 0,
