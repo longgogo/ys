@@ -3,14 +3,15 @@
 
 
 "lives": [
-			{"name": "自建直播源","type": 0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/main/tv.txt","playerType": 1},
-			{"name": "fanmingming/live ipv6","type": 0,"url": "https://iptv.b2og.com/fmml_ipv6.m3u","playerType": 1},  
-			{"name": "fanmingming/live domainv6(Invalid)","type": 0,"url": "https://iptv.b2og.com/fmml_dv6.m3u","playerType": 1},  
-			{"name": "YueChan-Live IPTV","type": 0,"url": "https://iptv.b2og.com/ycl_iptv.m3u","playerType": 1}, 
-			{"name": "YanG-1989 Gather","type": 0,"url": "https://iptv.b2og.com/y_g.m3u","playerType": 1},
-			{"name": "joevess/IPTV home","type": 0,"url": "https://iptv.b2og.com/j_home.m3u","playerType": 1},
-			{"name": "joevess/IPTV iptv","type": 0,"url": "https://iptv.b2og.com/j_iptv.m3u","playerType": 1}			
-		],		  
+		{"name": "仓1","type": 0,"url":"https://gitlab.com/65012833/tvb/-/raw/main/live/tv.txt","playerType": 1},
+      		{"name": "仓2","type": 0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/main/tv.txt","playerType": 1},
+		{"name": "fanmingming/live ipv6","type": 0,"url": "https://iptv.b2og.com/fmml_ipv6.m3u","playerType": 1},  
+		{"name": "fanmingming/live domainv6(Invalid)","type": 0,"url": "https://iptv.b2og.com/fmml_dv6.m3u","playerType": 1},  
+		{"name": "YueChan-Live IPTV","type": 0,"url": "https://iptv.b2og.com/ycl_iptv.m3u","playerType": 1}, 
+		{"name": "YanG-1989 Gather","type": 0,"url": "https://iptv.b2og.com/y_g.m3u","playerType": 1},
+		{"name": "joevess/IPTV home","type": 0,"url": "https://iptv.b2og.com/j_home.m3u","playerType": 1},
+		{"name": "joevess/IPTV iptv","type": 0,"url": "https://iptv.b2og.com/j_iptv.m3u","playerType": 1}			
+	],		  
 
 	
 	
