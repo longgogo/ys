@@ -63,8 +63,8 @@
 
 {"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711263158682/fan.txt;md5;6fcaf5603964547fd0e414312eb5cd92"},
 
-{"key":"csp_biubiu_厂长资源","name": "厂长资源(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext": {"name": "厂长资源","url": "https://www.czzyvideo.com/","User": "User-Agent:Dart/2.14 (dart:io)","shouye": "1","fenlei": "豆瓣电影Top250$/dbtop250/page/#最新电影$/zuixindianying/page/#剧场版$/dongmanjuchangban/page/#国产剧$/gcj/page/#美剧$/meijutt/page/#韩剧$/hanjutv/page/#番剧$/fanju/page/","houzhui": "","shifouercijiequ": "0","jiequqian": "空","jiequhou": "空","jiequshuzuqian": "<li>","jiequshuzuhou": "</li>","tupianqian": "data-original=\"","tupianhou": "\"","biaotiqian": "alt=\"","biaotihou": "\"","lianjieqian": "href=\"https://www.czzy55.com","lianjiehou": "\"","fubiaotiqian": "text-right\">","fubiaotihou": "</span>","sousuoqian": "/xssearch?q=","sousuohou": "&limit=50","sousuohouzhui": "/movie/","ssmoshi": "0","sousuoshifouercijiequ": "0","jspic": "pic","jsname": "name","jsid": "id","ssjiequqian": "空","ssjiequhou": "空","ssjiequshuzuqian": "空","ssjiequshuzuhou": "空","sstupianqian": "空","sstupianhou": "空","ssbiaotiqian": "空","ssbiaotihou": "空","sslianjieqian": "czzy55.com","sslianjiehou": "空","bfshifouercijiequ": "0","bfjiequqian": "空","bfjiequhou": "空","bfjiequshuzuqian": "class=\"paly_list_btn","bfjiequshuzuhou": "</div>","zhuangtaiqian": "类型：","zhuangtaihou": "</li>","daoyanqian": "导演：","daoyanhou": "</li>","zhuyanqian": "主演：","zhuyanhou": "</li>","juqingqian": "class=\"yp_context\">","juqinghou": "</div>","bfyshifouercijiequ": "0","bfyjiequqian": "空","bfyjiequhou": "空","bfyjiequshuzuqian": "<a","bfyjiequshuzuhou": "/a>","bfbiaotiqian": ">","bfbiaotihou": "<","bflianjieqian": "czzy55.com","bflianjiehou": "\""}},
-
+{"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"playerType": "2","api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228","ext": "http://www.czzyvideo.com"},	
+	
 {"key": "糯米","name": "🍙糯米┃秒播","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446"},
 
 {"key": "比特","name": "🍄2个BT┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446"},
@@ -110,9 +110,9 @@
 	
 {"key": "csp_Nongm","name": "🌾️┃农民┃影视","type": 3,"api": "csp_Nongm","ext": "https://wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 {"key": "csp_Jpyy","name": "🥇️┃金牌┃影视","type": 3,"api": "csp_Jpyy","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
- {"key": "csp_AppRZ","name": "🕵️┃忍者┃影视","type": 3,"api": "csp_AppRZ","ext": "http://rzys.xyz/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
+{"key": "csp_AppRZ","name": "🕵️┃忍者┃影视","type": 3,"api": "csp_AppRZ","ext": "http://rzys.xyz/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 {"key": "csp_Dadag","name": "🐢️┃达龟┃影视","type": 3,"api": "csp_Dadag","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
- {"key": "csp_Kanke","name": "🛳️┃看客┃影视","type": 3,"api": "csp_Kanke","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
+{"key": "csp_Kanke","name": "🛳️┃看客┃影视","type": 3,"api": "csp_Kanke","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 {"key": "Mp4电影","name": "🧲磁力｜Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar"},
 {"key": "美剧天堂","name": "🧲磁力｜美剧天堂","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar"},
 {"key": "SeedHub","name": "🧲磁力｜SeedHub","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar"},  
@@ -714,43 +714,6 @@
 //"线路标题":"🌸+<span>&&</small>[替换:线路二>>兔年专线#</span><small>>>共]+集",
 "分类url":"https://www.yyds.one/s/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}    },
-
-{"key": "csp_子子影视","name": "子子影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar",
-"ext": 
-{
-"站名":"子子影视",
-"主页url":"https://www.ziziys.com",
-"简介":"请勿相信影片中的广告，以免上当受骗。+video-info-item video-info-content vod_content\"&&</div>",
-"导演":"导演：&&</div>",
-"主演":"主演：&&</div>",
-"影片类型":"video-info-aux scroll-content\">&&立即播放",
-"影片状态":"集数：&&</div>",
-"数组":"module-item-cover\">&&module-item\">",
-"副标题":"module-item-text\">&&</div>",
-"链接":"href=\"&&\"",
-"标题":"title=\"&&\"",
-"图片":"data-src=\"&&\"",
-"搜索url":"/vsearch/{wd}--{pg}.html",
-"搜索模式":"1",
-"搜索数组":"<img class=\"lazy lazyload&&</h3>",
-"搜索图片":"data-src=\"&&\"",
-"搜索标题":"alt=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"title=*>&&</a>",
-"搜索后缀":"/video/",
-"线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>>祥子影视共]+集",
-"播放数组":"<div class=\"sort-item\"&&</div>",
-"导演":"导演：&&</div>",
-"主演":"主演：&&</div>",
-"简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",
-"影片类型":"icon-cate-ds\"&&立即播放",
-"影片状态":"集数：&&</div>",
-"播放列表":"<a&&</a>",
-"播放标题":"<span>&&</span>",
-"播放链接":"href=\"&&\"",
-"分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",
-"分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"}    },
 
 {"key": "csp_佳能","name": "🅱️佳能影视|T追剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar",
 "ext": {"作者":"荷城茶秀","站名":"348影视","主页url":"https://348z.com/","简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群：869277279，公众号：日后魔改，获取更多影视资源。+详情：&&</div>","导演":"导演：&&</li>","主演":"主演：&&</li>","影片状态":"状态：&&</li>","影片类型":"data vodTag\">&&</li>","数组":"list-width volistwidthb\">&&</li>","标题":"title=\"&&\"","副标题":"list-remarks hidden\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"/vodsearch.html?wd={wd}","搜索模式":"1","搜索数组":"img lazy eclazy br\"&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"list-remarks hidden\">&&</span>","搜索图片":"data-original=\"&&\"","搜索链接":"href=\"&&\"","线路数组":"data-from=&&</a>[不含:超清资源#MY][排序:极速2]","线路标题":"🌸荷城茶秀接口🌸+>&&</em>[替换:<em>>>共]+集","分类url":"https://348z.com/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
