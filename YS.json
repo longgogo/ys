@@ -1312,7 +1312,10 @@
   "bfbiaotiqian": ">",
   "bfbiaotihou": "<",
   "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""}},	
+  "bflianjiehou": "\""}},
+
+{"key":"csp_biubiu_美益达影视","name": "美益达影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
+"ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/美益达影视.json"},	
 
 {"key": "哔哩哔哩","name": "哔站┃成人","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/2.jar","ext": {
 "首页":"热舞",
