@@ -118,8 +118,8 @@
 {"key": "美剧天堂","name": "🧲磁力｜美剧天堂","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar"},
 {"key": "SeedHub","name": "🧲磁力｜SeedHub","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar"},  
 {"key": "迅雷吧","name": "迅雷吧｜磁力","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
-	
-{"key": "NO视频","name": "⭕NO丨视频","type": 3,"api": "csp_XBPQ","playerType": "2","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar","ext": {"请求头": "手机","主页url": "https://www.dgjiawu.com/","简介": "","数组": "class=\"stui-vodlist__thumb lazyload\"&&</a","图片": "data-original=\"&&\"","链接": "href=\"&&\"","播放链接": "href=\"&&\"","标题": "title=\"&&\"","副标题": "","搜索url": "","嗅探词": ".m3u8#https://m3u.hw8.live/share/#index.m3u8","线路数组": "href=\"javascript:;\"&&</li>","线路标题": "🌐神荼专享线路🌐+class=\"v*\">&&</a[排序:线路2>>]","播放数组": "class=\"v*-div&&</div>","播放列表": "class=\"btn btn-primary btn-primary-ph&&</a","播放标题": ">&&</a","倒序": "0","分类": "电影$5738#电视剧$5749#动漫$5767#综艺$5758","分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/1/0/0/0/0/{catePg}[https://www.dgjiawu.com/mo-1zxgt/{cateId}/1];;RC"}},
+
+{"key": "NO视频","name": "⭕NO丨视频","type": 3,"api": "csp_XBPQ","playerType": "2","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar","ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/NO视频.json"},	
 {"key": "csp_moxmi","name": "💢乐美丨影视","type": 1,"api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list","playUrl": "json:http://iid.moxmi.top:81/gg.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar","categories": ["电影","剧集","综艺","动漫","短剧"]},
 
 {"key":"1905","name":"1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
@@ -541,17 +541,8 @@
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""}}, 	
 	
-{"key": "影视工厂",
-  "name": "🧿工厂┃蓝光",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar",
-   "ext": {
-                "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
-                "分类url": "https://www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"}},
+{"key": "影视工厂","name": "影视工场","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/影视工场.json"},
+		
 {"key":"csp_biubiu_影视工场","name": "影视工场(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/ysgc.json" },	
 
 {"key": "csp_电影先生","name": "电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar",
