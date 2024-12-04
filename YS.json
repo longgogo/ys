@@ -53,6 +53,9 @@
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 
 {"key": "csp_SaoHuo","name": "🔥┃火火┃影视","type": 3,"api": "csp_SaoHuo","playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
+
+{"key":"csp_biubiu_Kimivod","name": "Kimivod(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
+"ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/Kimivod.json"}, 
 	
 {"key": "南瓜","name": "🎃南瓜┃多线","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5"},	
 
@@ -1193,9 +1196,6 @@
 
 {"key":"csp_biubiu_美益达影视","name": "美益达影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/美益达影视.json"},
-
-{"key":"csp_biubiu_Kimivod","name": "Kimivod(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
-"ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/Kimivod.json"},  	
 
 {"key": "哔哩哔哩","name": "哔站┃成人","type": 3,"api": "csp_XBPQ","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/2.jar","ext": {
 "首页":"热舞",
