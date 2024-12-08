@@ -6,8 +6,8 @@
 "lives": [
 {"name": "仓1","type": 0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/main/tv.txt","playerType": 1},
 {"name": "仓2","type": 0,"url":"https://gitlab.com/65012833/tvb/-/raw/main/live/tv.txt","playerType": 1},
-{"name": "IPV6直播频道(每日自动更新，永不失效)","url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u"},
-{"name": "IPV4直播频道(偶尔更新，不保证流畅)","url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt"},
+{"name": "IPV6直播频道(每日自动更新，永不失效)","url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u","playerType": 1},
+{"name": "IPV4直播频道(偶尔更新，不保证流畅)","url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt","playerType": 1},
 {"name": "MTV歌曲","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/mtv.txt","playerType": 1}, 
 {"name": "fanmingming/live ipv6","type": 0,"url": "https://iptv.b2og.com/fmml_ipv6.m3u","playerType": 1},  
 {"name": "fanmingming/live domainv6(Invalid)","type": 0,"url": "https://iptv.b2og.com/fmml_dv6.m3u","playerType": 1},  
