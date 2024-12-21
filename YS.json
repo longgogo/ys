@@ -130,7 +130,7 @@
 {"key": "西瓜视频","name": "西瓜｜视频","type": 3,"api": "csp_AmuXiguaV2","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar","style": {"type": "rect", "ratio": 1.597}},
 {"key": "低端影视","name": "低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},	
 
-{"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/api黑木耳.json"},	
+{"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/api黑木耳.json"},	
 
 {"key": "csp_Jpys","name": "金牌✨蓝光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://d.kstore.dev/download/5403/Jar/HeChengChaXiu.jar","ext": {"影片地区": "🌲林中小屋🏡","搜索url": "https://www.diemi.cc/search/?wd={wd}","搜索链接": "href=\"&&\"","分类url": "https://www.iidie.com/type-{cateId}-{catePg}/","分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"}},
 
