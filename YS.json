@@ -598,7 +598,10 @@
 {"key":"主力源","name":"🚄索尼影视","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["科幻片","动作片","恐怖片","纪录片","爱情片","战争片","剧情片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","电视剧",],"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 
 {"key":"csp_biubiu_555","name": "555(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://d.kstore.dev/download/5403/Jar/zy2.jar",
-"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/555.json"},	
+"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/555.json"},
+
+{"key":"csp_biubiu_VS影视","name": "VS影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
+"ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/vs.json"},
 
 {"key":"csp_biubiu_麦田影院","name": "麦田影院(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext": {
