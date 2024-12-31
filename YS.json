@@ -130,8 +130,6 @@
 {"key": "洽洽影视","name": "洽洽｜APP","type": 3,"api": "csp_AppGZ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
 {"key": "低端影视","name": "低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},	
 
-{"key": "csp_Jpys","name": "金牌✨蓝光影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://d.kstore.dev/download/5403/Jar/HeChengChaXiu.jar","ext": {"影片地区": "🌲林中小屋🏡","搜索url": "https://www.diemi.cc/search/?wd={wd}","搜索链接": "href=\"&&\"","分类url": "https://www.iidie.com/type-{cateId}-{catePg}/","分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"}},
-
 {"key": "o站影视","name": "O源✨蓝光影视","type": 3,"api": "csp_XBPQ","jar": "https://d.kstore.dev/download/5403/Jar/HeChengChaXiu.jar","ext": {"简介": "剧情介绍:+line-height: 20px;\">&&</div>","分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},
 	
 {"key": "555影院","name": "⚡555┃APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext": "https://e3wuwu4.com/api.php/app/"},
