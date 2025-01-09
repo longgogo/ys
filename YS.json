@@ -86,7 +86,7 @@
 {"key": "YiSo","name": "😹易搜┃阿狸","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
 {"key": "PanSearch","name": "🙀盘Se┃阿狸","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
 
-{"key": "csp_Bttoo","name": "🍄比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f"},
+{"key": "csp_Bttoo","name": "🍄比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt;md5;199d292d646c6d3b0d6a2b37eb30f05b"},
 
 {"key": "厂长","name": "📔厂长┃不卡","type": 3,"api": "csp_NewCz","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzyvideo.com/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f"},	
 
@@ -96,7 +96,7 @@
 
 {"key": "快车资源","name": "无界🌏快车影视","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": " https://gitee.com/zhangsilu159/box/raw/master/jar/无界.jar"},
 
-{"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711263158682/fan.txt;md5;6fcaf5603964547fd0e414312eb5cd92"},
+{"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt;md5;199d292d646c6d3b0d6a2b37eb30f05b"},
 
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/奇珍异兽.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/优酷.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
