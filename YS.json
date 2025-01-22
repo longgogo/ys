@@ -36,7 +36,7 @@
 
 //饭太硬
 {"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_Nmyswv","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737452714509/f01212.txt;md5;685fb6b2ffc841343f1135b82cda23e1"},
-{"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1,"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737452714509/f01212.txt;md5;685fb6b2ffc841343f1135b82cda23e1"},
+{"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
 
 {"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/api黑木耳.json"},  	
 
