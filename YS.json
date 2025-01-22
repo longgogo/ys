@@ -37,7 +37,8 @@
 //饭太硬
 {"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_Nmyswv","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737452714509/f01212.txt;md5;685fb6b2ffc841343f1135b82cda23e1"},
 {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
-
+{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737452714509/f01212.txt;md5;685fb6b2ffc841343f1135b82cda23e1"},
+	
 {"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/api黑木耳.json"},  	
 
 {"key": "csp_Nongm","name": "🌾️┃农民┃影视","type": 3,"api": "csp_Nongm","ext": "https://wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"},
@@ -118,8 +119,6 @@
 
 {"key": "串串","name": "串串┃️BPQ","type": 3,"api": "csp_XBPQ","ext": {"请求头": "手机#Referer$http://bczhuiju.com/","主页url": "http://bczhuiju.com","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]","线路标题": "<span>&&</span>","嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4","播放数组": "<div class=\"module-play-list-content&&</div>","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：</span>&&</div>","主演": "主演：</span>&&</div>","简介": "style=\"line-height: 20px;\"&&</p>","播放列表": "<a&&</a>","播放标题": "<span>&&</span>","播放链接": "href=\"&&\"","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
-{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
 
 {"key": "Auete","name": "🏝奥特┃无广","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a"},
 
