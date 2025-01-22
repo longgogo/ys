@@ -77,25 +77,19 @@
 
 {"key": "瓜子｜影视","name": "瓜子✨蓝光秒播","type": 3,"api": "csp_Gz360","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
 {"key": "高清剧场","name": "高清✨蓝光影视","type": 3,"api": "csp_XBPQ","ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/高清剧场.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
-{"key": "Movies","name": "Movies✨蓝光影视","type": 3,"api": "csp_XBPQ","ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/Movies.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
 {"key": "XBPQ_里里影院","name": "一起看✨蓝光影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitlab.com/65012833/tvb/-/raw/main/json/一起看.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
-
-{"key": "csp_SaoHuo","name": "🔥┃火火┃影视","type": 3,"api": "csp_SaoHuo","playerType": 2,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 
 {"key":"csp_biubiu_Kimivod","name": "Kimivod(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/Kimivod.json"},
 
 {"key":"csp_biubiu_可达影视","name": "可达影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/可达影视.json"},
-
-{"key":"csp_biubiu_皮皮影院","name": "皮皮影院(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
-"ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/皮皮影院.json"}, 
   
 {"key":"csp_biubiu_皮皮影视","name": "皮皮影视(自定义）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar",
 "ext":"https://gitlab.com/65012833/tvb/-/raw/main/json/皮皮影视.json"}, 
   	
 {"key": "天天","name": "天天┃App","type": 3,"api": "csp_TTian","ext": "http://op.ysdqjs.cn$$$null$$$1","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/pg.jar"},
-{"key": "csp_Bttoo","name": "🍄比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt;md5;199d292d646c6d3b0d6a2b37eb30f05b"},
+{"key": "csp_Bttoo","name": "🍄比特┃秒播","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
 {"key": "Auete","name": "🏝奥特┃无广","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446"},
 
 {"key": "抠搜","name": "🍄抠抠┃搜搜","type": 3,"api": "csp_KkSs","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2","ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "from": "4k|auto"}},
@@ -114,7 +108,7 @@
 
 {"key": "快车资源","name": "无界🌏快车影视","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["国产剧","战争片","动作片","香港剧"],"jar": " https://gitee.com/zhangsilu159/box/raw/master/jar/无界.jar"},
 
-{"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt;md5;199d292d646c6d3b0d6a2b37eb30f05b"},
+{"key": "萌米","name": "👀萌米┃App","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
 
 {"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/奇珍异兽.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/lib/main/优酷.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
@@ -125,7 +119,7 @@
 {"key": "串串","name": "串串┃️BPQ","type": 3,"api": "csp_XBPQ","ext": {"请求头": "手机#Referer$http://bczhuiju.com/","主页url": "http://bczhuiju.com","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]","线路标题": "<span>&&</span>","嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4","播放数组": "<div class=\"module-play-list-content&&</div>","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：</span>&&</div>","主演": "主演：</span>&&</div>","简介": "style=\"line-height: 20px;\"&&</p>","播放列表": "<a&&</a>","播放标题": "<span>&&</span>","播放链接": "href=\"&&\"","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a"},
+{"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725011590770/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3"},
 
 {"key": "Auete","name": "🏝奥特┃无广","type": 3,"api": "csp_Auete","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a"},
 
