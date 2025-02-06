@@ -59,6 +59,18 @@
 {"key":"优质","name":"优质┃App","type":3,"api":"csp_Xdai","playerType":1,"jar":"https://raw.giteeusercontent.com/zhangsilu159/box/raw/master/jar/fix250118.jar","ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="},
 {"key":"木头","name":"木头┃App","type":3,"api":"csp_Shark","playerType":1,"jar":"https://raw.giteeusercontent.com/zhangsilu159/box/raw/master/jar/fix250118.jar","ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
 
+//磁力
+{"key": "美剧迷","name": "美剧迷｜磁力","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "SeedHub","name": "SeedHub｜磁力","type": 3,"api": "csp_SeedHub","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "布谷TV","name": "布谷TV｜磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/65012833/json/raw/branch/main/布谷TV.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "BT天堂","name": "BT天堂｜磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/65012833/json/raw/branch/main/BT天堂.json","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "Mp4电影","name": "Mp4电影｜磁力","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "酷吧电影","name": "酷吧电影｜磁力","type": 3,"api": "csp_KubaCL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "美剧天堂","name": "美剧天堂｜磁力","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key": "Dygang","name": "电影港┃超清","type": 3,"api": "csp_Dygang","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/欧歌.jar"},
+{"key": "迅雷吧","name": "迅雷吧｜磁力","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
+
+
 //
 {"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://codeberg.org/65012833/json/raw/branch/main/api黑木耳.json"},  	
 	
@@ -68,7 +80,6 @@
   
 {"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},  
 
-{"key": "Dygang","name": "电影港┃超清","type": 3,"api": "csp_Dygang","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/欧歌.jar"},
 
 {"key": "csp_New6v","name": "新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/无界.jar"},
 
@@ -109,7 +120,6 @@
 
 {"key": "csp_Dadag","name": "🐢️┃达龟┃影视","type": 3,"api": "csp_Dadag","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 {"key": "csp_Kanke","name": "🛳️┃看客┃影视","type": 3,"api": "csp_Kanke","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
-{"key": "迅雷吧","name": "迅雷吧｜磁力","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
 	
 {"key": "csp_moxmi","name": "💢乐美丨影视","type": 1,"api": "http://mi.moxmi.top:81/api.php/provide/vod/?ac=list","playUrl": "json:http://iid.moxmi.top:81/gg.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/林中的小屋.jar","categories": ["电影","剧集","综艺","动漫","短剧"]},
 
