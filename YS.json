@@ -66,9 +66,12 @@
 {"key": "Mp4电影","name": "Mp4电影｜磁力","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
 {"key": "酷吧电影","name": "酷吧电影｜磁力","type": 3,"api": "csp_KubaCL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
 {"key": "美剧天堂","name": "美剧天堂｜磁力","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key":"面包影视","name":"面包｜影视","type":3,"api":"csp_XBPQ","ext":"https://codeberg.org/65012833/json/raw/branch/main/面包影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key":"永乐影视","name":"永乐｜影视","type":3,"api":"csp_XBPQ","ext":"https://codeberg.org/65012833/json/raw/branch/main/永乐影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key":"可可影视","name":"可可｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/65012833/json/raw/branch/main/可可影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
+{"key":"海纳影视","name":"海纳｜影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/65012833/json/raw/branch/main/海纳影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
 {"key": "Dygang","name": "电影港┃超清","type": 3,"api": "csp_Dygang","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/欧歌.jar"},
 {"key": "迅雷吧","name": "迅雷吧｜磁力","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/潇洒.jar"},
-
 
 //
 {"key": "api_黑木耳","name": "api黑木耳","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://codeberg.org/65012833/json/raw/branch/main/api黑木耳.json"},  	
