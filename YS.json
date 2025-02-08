@@ -27,7 +27,7 @@
 
 {"key": "alist","name": "🍰小鸭┃网盘","type": 3,"playerType": "1","api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/小米","ext": {  "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives": [{"name": "🦆托盘", "server": "https://pan.mediy.cn/"},{"name": "小雅", "server": "http://alist.xiaoya.pro/"},{"name": "七米藍", "server": "https://al.chirmyram.com/"}         ]}},
   
-{"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},  
+{"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},  
 
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 
