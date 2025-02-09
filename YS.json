@@ -2,24 +2,10 @@
 "spider": "https://gitee.com/zhangsilu159/box/raw/master/jar/小米.jar",
  
 "lives": [
-{"name": "仓1","type": 0,"url":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType": 1},
 {"name": "仓2","type": 0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType": 1},
-{"name": "仓4","type": 0,"url": "https://d.kstore.dev/download/5403/Live/tv.json","playerType": 1},
-{"name": "IPV6直播频道(每日自动更新，永不失效)","type": 0,"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u","playerType": 1},
-{"name": "IPV4直播频道(偶尔更新，不保证流畅)","type": 0,"url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt","playerType": 1},
-{"name": "MTV1","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/mtv.txt","playerType": 1}, 
-{"name": "MTV2","type": 0,"url": "https://gitlab.com/65012833/tvb/-/raw/main/live/mtv.txt","playerType": 1}, 
-{"name": "fanmingming/live ipv6","type": 0,"url": "https://iptv.b2og.com/fmml_ipv6.m3u","playerType": 1},  
-{"name": "fanmingming/live domainv6(Invalid)","type": 0,"url": "https://iptv.b2og.com/fmml_dv6.m3u","playerType": 1},  
-{"name": "YueChan-Live IPTV","type": 0,"url": "https://iptv.b2og.com/ycl_iptv.m3u","playerType": 1}, 
-{"name": "YanG-1989 Gather","type": 0,"url": "https://iptv.b2og.com/y_g.m3u","playerType": 1},
-{"name": "joevess/IPTV home","type": 0,"url": "https://iptv.b2og.com/j_home.m3u","playerType": 1},
-{"name": "电视IPTV6（移动优）","type": 0,"url": "http://47.108.190.141/wx/zb/IPTV6.txt","playerType": 1},
-{"name": "1 ","type": 0,"url": "http://175.178.251.183:6689/live.txt","playerType": 1}, 
-{"name": " 4","type": 0,"url": "https://m3u.ibert.me/txt/fmml_dv6.txt","playerType": 1}, 
-{"name": "5 ","type": 0,"url": "https://m3u.ibert.me/txt/o_cn.txt","playerType": 1}, 
-{"name": " 7","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt","playerType": 1}, 
-{"name": "joevess/IPTV iptv","type": 0,"url": "https://iptv.b2og.com/j_iptv.m3u","playerType": 1}			
+{"name": "仓3","type": 0,"url": "https://gitlab.com/65012833/tvb/-/raw/main/live/tv.txt?ref_type=heads","playerType": 1},
+{"name": "仓1","type": 0,"url":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType": 1},
+{"name": "仓4","type": 0,"url": "https://d.kstore.dev/download/5403/Live/tv.json","playerType": 1}
 	],	 
 	
 "sites": [
@@ -27,7 +13,7 @@
 
 {"key": "alist","name": "🍰小鸭┃网盘","type": 3,"playerType": "1","api": "csp_AList","searchable": 1,"quickSearch": 0,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/小米","ext": {  "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives": [{"name": "🦆托盘", "server": "https://pan.mediy.cn/"},{"name": "小雅", "server": "http://alist.xiaoya.pro/"},{"name": "七米藍", "server": "https://al.chirmyram.com/"}         ]}},
   
-{"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/直播转点播.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},  
+{"key":"直播转点播1","name":"📡电视直播","type": 3,"api":"https://codeberg.org/65012833/js/raw/branch/main/直播转点播.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/直播.txt","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},  
 
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 
@@ -118,11 +104,11 @@
 
 //官源系列
 {"key": "csp_SP360","name": "📺┃360┃官源","type": 3,"api": "csp_SP360", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
-{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/iqiyi.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/youku.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/qq.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/mgtv.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/caigou.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/iqiyi.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/youku.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/qq.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/mgtv.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/caigou.js","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
 {"key": "串串","name": "串串┃️BPQ","type": 3,"api": "csp_XBPQ","ext": "https://codeberg.org/65012833/json/raw/branch/main/串串BPQ.json"},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
