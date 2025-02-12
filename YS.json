@@ -268,6 +268,8 @@
 	{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 	{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 	{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
+	{"name":"欧：智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
+	{"name":"欧：智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","TVOD"],"rules":[{"regexp":"AI2"}],"toLog":0},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
 "ijk":[
