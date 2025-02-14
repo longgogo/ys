@@ -165,7 +165,9 @@
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO.json"},	
 {"key":"csp_biubiu_LIBVIO影视","name":"LIBVIO影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO影视.json"},	
 {"key":"csp_biubiu_影视工场","name":"影视工场(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/ysgc.json"},	
-
+{"key":"csp_biubiu_饭团影院","name":"饭团影院(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/饭团影院.json"},
+	
+	
 {"key":"哔哩哔哩","name":"哔站┃成人","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/哔站成人.json"},
 
 {"key":"哔哩哔哩2","name":"哔站┃儿童","type":3,"api":"csp_XBPQ","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/哔站儿童.json"},
