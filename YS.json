@@ -136,6 +136,7 @@
 {"key":"csp_电影先生","name":"电影先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/电影先生.json"},
 {"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/Kimivod.json"},
 {"key":"csp_饭团影视","name":"饭团影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/饭团影视.json"},
+{"key":"csp_FREEOK","name":"FREEOK","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/FREEOK.json"},
 	
 {"key":"影视大全","name":"🧿聚合┃蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/影视大全.json"},
 	
