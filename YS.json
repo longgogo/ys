@@ -134,7 +134,7 @@
 {"key":"在线之家","name":"在线之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/在线之家.json"},
 
 //XBPQ	
-{"key":"csp_电影先生","name":"电影先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/电影先生.json"},
+{"key":"csp_电影先生","name":"电影先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/电影先生.json"},
 {"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/Kimivod.json"},
 
 
