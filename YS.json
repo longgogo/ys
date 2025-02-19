@@ -40,7 +40,6 @@
 {"key": "可可","name": "👻可可┃多线","type": 3,"api": "csp_Kekys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739417065683/f0213a.txt;md5;793d41d0573885b6f21c8cef69624881"},
 
 //肥猫	
-{"key":"csp_Fantuan","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739347341648/PandaQ250212.txt;md5;2ce1c06d0582d9dca3496f00a37ade6c"},
 {"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"},
 	
 //欧歌
@@ -83,7 +82,7 @@
 {"key":"火狐","name":"🦊火狐采集","type":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/fty.jar","api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":1,"categories":["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 
 
-//
+
 {"key":"api_黑木耳","name":"api黑木耳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/api黑木耳.json"},	
 	
 {"key":"荐片","name":"🎬┃荐片┃影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/PandaQ240505.jar"},
