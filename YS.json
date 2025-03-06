@@ -53,7 +53,17 @@
 
 
 //肥猫	
-{"key":"csp_Nongm","name":"🌾️┃农民┃影视","type":3,"api":"csp_Nongm","ext":"https://wwgz.cn","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"},
+{"key":"潮流","name":"🏜┃潮流┃影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"梦回","name":"🏈┃梦回┃影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"星辉","name":"🦢┃星辉┃影视","type":3,"api":"csp_AppRJ","ext":"sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Lgyy","name":"✨️️┃流光┃影视","type":3,"api":"csp_Lgyy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Wwys","name":"🌾️┃农民┃影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Siren","name":"🎉️┃私人┃影城","type":3,"api":"csp_Siren","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Tvyb","name":"☁️️┃云播┃影视","type":3,"api":"csp_Tvyb","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"http://www.dyxz2.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key":"csp_Quanwk","name":"👀┃全看┃影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+{"key": "csp_Lkdy","name": "🏔️┃来看┃影视","type": 3,"api": "csp_Lkdy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"},
+
 	
 //欧歌
 {"key":"客星","name":"客星┃App","type":3,"api":"csp_Xdai","playerType":1,"jar":"https://raw.giteeusercontent.com/zhangsilu159/box/raw/master/jar/fix250118.jar","ext":"caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="},
@@ -120,7 +130,7 @@
 {"key":"8号影院","name":"🌞首选┃蓝光┃专线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":{"搜索url":"http://www.soutiyi.com/search.php?searchword={wd}","搜索链接":"href=\"&&\"","简介":"请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>","线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html","分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"}},
 {"key":"极速电影","name":"🌞首选┃蓝光┃极速","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":{"分类url":"https://32d.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#电影$1#综艺$3#动漫$4#短剧$20"}},
 {"key":"星空影视","name":"☀️备选┃超清┃云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":{"分类url":"https://www.2000xk.com/hd/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}},
-{"key":"奇优影院","name":"🧿奇优┃蓝光","type":3,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar","playerType":"2","api":"csp_XBPQ","ext":{"简介":"请勿相信影片中的广告，以免上当受骗。+简介：&&</div>","搜索url":"http://www.dyxz2.com/search.php;post;searchword={wd}","分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6","分类url":"http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"}},
+
 
 {"key":"csp_Kanke","name":"🛳️┃看客┃影视","type":3,"api":"csp_Kanke","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
 	
@@ -169,7 +179,6 @@
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO.json"},	
 {"key":"csp_biubiu_LIBVIO影视","name":"LIBVIO影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO影视.json"},	
 {"key":"csp_biubiu_影视工场","name":"影视工场(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/ysgc.json"},
-{"key":"csp_biubiu_4K鸭奈飞","name":"4K鸭奈飞(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/4K鸭奈飞.json"},	
 {"key":"csp_biubiu_电影先生","name":"电影先生(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/电影先生1.json"},
 
 //挂了
