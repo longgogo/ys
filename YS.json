@@ -176,6 +176,7 @@
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO.json"},	
 {"key":"csp_biubiu_LIBVIO影视","name":"LIBVIO影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/LIBVIO影视.json"},	
 {"key":"csp_biubiu_影视工场","name":"影视工场(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/ysgc.json"},
+{"key":"csp_biubiu_N电影","name":"N电影(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/N电影.json"},
 {"key":"csp_biubiu_电影先生","name":"电影先生(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/电影先生1.json"},
 
 //挂了
