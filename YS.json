@@ -1,5 +1,6 @@
 {
-"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/小米.jar",
+"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/fty2.jar",
+//"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/小米.jar",
 
 "lives": [
 {"name":"仓3","type":0,"url":"https://gitlab.com/65012833/tvb/-/raw/main/live/tv.txt?ref_type=heads","playerType":1},
@@ -20,8 +21,8 @@
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 
 //饭太硬
-{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744717164338/f0415.txt;md5;7472da5d5d66556654e08770042564ab"},
-{"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744717164338/f0415.txt;md5;7472da5d5d66556654e08770042564ab"},
+{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}},
+{"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "白白","name": "🐟白白┃秒播","type": 3,"api": "csp_SbaibaiGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744717164338/f0415.txt;md5;7472da5d5d66556654e08770042564ab"},
 {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744717164338/f0415.txt;md5;7472da5d5d66556654e08770042564ab"},
 {"key": "萌米","name": "👀萌米┃多线","type": 3,"api": "csp_AppTTGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA==","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744717164338/f0415.txt;md5;7472da5d5d66556654e08770042564ab"},
