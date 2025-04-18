@@ -98,6 +98,8 @@
 {"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://codeberg.org/65012833/js/raw/branch/main/caigou.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
 {"key":"api_黑木耳","name":"api黑木耳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/api黑木耳.json"},	
+{"key":"api_音范丝","name":"音范丝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/音范丝.json"},	
+{"key":"api_厂长资源","name":"厂长资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/厂长资源.json"},		
 {"key":"csp_不卡","name":"🅱️┃不卡┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://codeberg.org/65012833/json/raw/branch/main/真不卡影视.json"},
 {"key":"瓜子｜影视","name":"瓜子✨蓝光秒播","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
 {"key":"高清剧场","name":"高清✨蓝光影视","type":3,"api":"csp_XBPQ","ext":"https://codeberg.org/65012833/json/raw/branch/main/高清剧场.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
