@@ -19,6 +19,9 @@
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
+{"key":"天天影视","name":"☀天天🔹影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
+{"key":"csp_XYQHiker_农民影视","name":"☀天微🔹农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/65012833/json/raw/branch/main/农民影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
+
 
 //饭太硬
 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}},
@@ -68,8 +71,7 @@
 {"key":"面包影视","name":"面包｜影视","type":3,"api":"csp_XBPQ","ext":"https://codeberg.org/65012833/json/raw/branch/main/面包影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
 {"key":"永乐影视","name":"永乐｜影视","type":3,"api":"csp_XBPQ","ext":"https://codeberg.org/65012833/json/raw/branch/main/永乐影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/磁力.jar"},
 
-{"key":"天天影视","name":"☀天天🔹影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
-{"key":"csp_XYQHiker_农民影视","name":"☀天微🔹农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/65012833/json/raw/branch/main/农民影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
+
 {"key":"雨滴","name":"☀雨滴🔹秒播","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"猎手影视","name":"☀猎手🔹影院","type":3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"玉米","name":"☀玉米🔹秒播","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
@@ -80,8 +82,7 @@
 {"key":"步步","name":"☀步步🔹影院","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"追剧弹幕","name":"☀追剧🔹弹幕","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/追剧弹幕.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"剧圈圈","name":"☀剧圈🔹影院","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/剧圈圈.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
-{"key":"api_音范丝","name":"音范丝","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/音范丝.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},	
-{"key":"api_厂长资源","name":"厂长资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://codeberg.org/65012833/json/raw/branch/main/厂长资源.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
+
 
 
 
