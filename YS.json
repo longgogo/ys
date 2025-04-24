@@ -106,7 +106,7 @@
 	
 //XBPQ	
 {"key":"csp_电影先生","name":"电影先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/电影先生.json"},
-{"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/Kimivod.json"},
+{"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://ghfast.top/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/kimivod.json"},
 
 //官源系列
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
