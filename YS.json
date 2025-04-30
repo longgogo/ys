@@ -22,7 +22,7 @@
 {"key":"天天影视","name":"☀天天🔹影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"csp_XYQHiker_农民影视","name":"☀天微🔹农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/农民影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"csp_XYQHiker_可可影视","name":"可可影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/可可影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/666.jar"},
-
+{"key":"csp_两个BT","name":"两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/两个BT.json"},
 
 //饭太硬
 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}},
