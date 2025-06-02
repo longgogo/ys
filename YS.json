@@ -111,7 +111,7 @@
 {"key":"玉米","name":"💡玉米｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
 {"key":"米兔","name":"💡米兔｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
 {"key":"云端","name":"💡云端｜影视","type":3,"api":"csp_Xdai","playerType":2,"ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
-{"key":"面包影视","name":"🧿面包｜影视","type":3,"api":"csp_XBPQ","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/XBPQ/面包影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
+{"key":"面包影视","name":"🧿面包｜影视","type":3,"api":"csp_XBPQ","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/面包影视.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
 {"key":"爱看机器人","name":"💡爱看｜影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/jar.php"},
 
 
@@ -164,7 +164,6 @@
 {"key":"csp_biubiu_LIBVIO影视","name":"LIBVIO影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/LIBVIO影视.json"},	
 {"key":"csp_biubiu_皮皮蛋影视","name":"皮皮蛋影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/皮皮蛋影视.json"},
 {"key":"csp_biubiu_大师兄影视","name":"大师兄影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/大师兄影视.json"},
-{"key":"csp_biubiu_秀儿影视","name":"秀儿影视(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/zy2.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/秀儿影视.json"},
 
 
 
