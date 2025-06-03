@@ -21,7 +21,8 @@
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"天天影视","name":"☀天天🔹影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
-
+{"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
+	
 //XBPQ	
 {"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/kimivod.json"},
 {"key":"csp_VidHub","name":"VidHub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/VidHub.json"},
