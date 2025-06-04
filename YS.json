@@ -3,10 +3,10 @@
 //"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/小米.jar",
 
 "lives": [
-{"name":"仓3","type":0,"url":"https://gitlab.com/65012833/tvb/-/raw/main/live/tv.txt?ref_type=heads","playerType":1},
+{"name":"仓3","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
 {"name":"仓1","type":0,"url":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
 {"name":"仓2","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1},
-{"name":"仓4","type":0,"url":"https://d.kstore.dev/download/5403/Live/tv.json","playerType":1}
+{"name":"yeun_sk","type":0,"url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":1}
 	],	
 	
 "sites":[
@@ -22,7 +22,7 @@
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"天天影视","name":"☀天天🔹影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/tvkj.jar"},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
-	
+
 //XBPQ	
 {"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/kimivod.json"},
 {"key":"csp_VidHub","name":"VidHub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/VidHub.json"},
@@ -177,6 +177,8 @@
 {"key":"drpy_js_HDmoli","name":"影视|HDmoli[js]","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/HDmoli.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_小白菜儿","name":"影视|小白菜儿[js]","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/小白菜电影.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
+
+
 {"key":"B站","name":"🅱️哔哩哔哩✨资源大全","type":3,"api":"csp_Bili","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/fty.jar","searchable":1,"quickSearch":1,"changeable":0,"ext":{"json":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/B站.json","cookie":""}},	
 {"key":"csp_Bili_yanchh","name":"🅱️┃歌手┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/歌手.json"},
 {"key":"csp_Bili_Nvtuan","name":"🅱️┃女团┃热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/女团.json"},
@@ -257,4 +259,3 @@
 
 "flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
 "ads":["www.72418.com","mozai.4gtv.tv","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]}
-
