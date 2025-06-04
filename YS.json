@@ -6,7 +6,7 @@
 {"name":"仓3","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
 {"name":"仓1","type":0,"url":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
 {"name":"仓2","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1},
-{"name":"yeun_sk","type":0,"url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":1}
+{"name":"yeun_sk","type":0,"url":"https://py.nxog.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":1}
 	],	
 	
 "sites":[
@@ -15,7 +15,7 @@
 
 {"key":"alist","name":"🍰小鸭┃网盘","type":3,"playerType":"1","api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/小米","ext":{"vodPic":"https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg","drives":[{"name":"🦆托盘","server":"https://pan.mediy.cn/"},{"name":"小雅","server":"http://alist.xiaoya.pro/"},{"name":"七米藍","server":"https://al.chirmyram.com/"},{"name":"觸光","server":"https://pan.ichuguang.com"}         ]}},
 
-{"key":"直播转点播1","name":"📡电视直播","type":3,"api":"https://notabug.org/tvlive/js/raw/master/直播转点播.js","ext":"https://notabug.org/tvlive/js/raw/master/直播.txt","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},
+{"key":"直播转点播1","name":"📡电视直播","type":3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},
 
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
@@ -125,11 +125,11 @@
 
 //官源系列
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_SP360","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
-{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://notabug.org/tvlive/js/raw/master/iqiyi.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://notabug.org/tvlive/js/raw/master/youku.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://notabug.org/tvlive/js/raw/master/qq.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://notabug.org/tvlive/js/raw/master/mgtv.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
-{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://notabug.org/tvlive/js/raw/master/caigou.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_iqiyi","name":"🥝┃爱奇异(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/iqiyi.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_youku","name":"🥔┃优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/youku.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_qq","name":"🐧┃腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/qq.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_mgtv","name":"🥭┃芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/mgtv.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
+{"key":"dr_搜狗","name":"🚛┃搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/caigou.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
 
 {"key":"瓜子｜影视","name":"瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
