@@ -6,6 +6,7 @@
 {"name":"仓3","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
 {"name":"仓1","type":0,"url":"https://raw.gitmirror.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
 {"name":"仓2","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1},
+{"name":"IPV4","type":0,"url":"https://raw.gitmirror.com/Guovin/iptv-api/gd/output/ipv4/result.m3u","playerType":1},	
 {"name":"yeun_sk","type":0,"url":"https://raw.gitmirror.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":1}
 	],	
 	
