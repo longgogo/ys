@@ -7,7 +7,7 @@
 {"name":"仓1","type":0,"url":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
 {"name":"仓3","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1},
 {"name":"IPV4","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u","playerType":1},
-{"name":"IPV6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u","playerType":1},
+{"name":"IPV6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u","playerType":1},	
 {"name":"yeun_sk","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u","playerType":1}
 	],	
 	
@@ -30,7 +30,7 @@
 {"key":"csp_VidHub","name":"VidHub","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/VidHub.json"},
 {"key":"csp_rarbt","name":"rarbt","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/rarbt.json"},		
 //{"key":"csp_两个BT","name":"两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/两个BT.json"},
-{"key": "WexbttwoGuard","name": "🎇大鼻涕┃两个BT🎇","type": 3,"api": "csp_WexbttwoGuard","searchable": 1,"changeable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/王二小.jar"},
+{"key": "WexbttwoGuard","name": "🎇大鼻涕┃两个BT🎇","type": 3,"api": "csp_WexbttwoGuard","searchable": 1,"changeable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/王二小.png"},
 {"key":"api_黑木耳","name":"api黑木耳","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/api黑木耳.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HeChengChaXiu.jar"},	
 {"key":"csp_飞飞影视","name":"飞飞影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/飞飞影视.json"},
 {"key":"csp_N奈飞工厂","name":"N奈飞工厂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/N奈飞工厂.json"},  
@@ -188,7 +188,7 @@
 {"key":"csp_Bili_Nvtuan","name":"🅱️┃女团┃热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/女团.json"},
 {"key":"csp_Bili_MTV","name":"🅱️┃歌曲┃演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/歌曲.json"},
 {"key": "直播转点播","name": "音乐🎧点播","type": 3,"api": "http://xn--5mq46jrwl99dn01d.top/音乐/java/lib/zbzdb.js","ext": "http://www.jielifan.com/data/f_85446651.png" ,"jar": "https://jihulab.com/bhjk1/vip/-/raw/main/danmu.jar"},
-{"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktvGuard","searchable": 1,"changeable": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749920026713/wex.png;md5;3591d99ab81c171d5b45eb99f4cc58b3"},
+{"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktvGuard","searchable": 1,"changeable": 0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/王二小.png"},
 {"key":"csp_Bili_Yinl2","name":"🅱️┃音悦┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/音悦.json"},
 {"key":"Yinyuetai","name":"音悦台","type":3,"api":"csp_Yinyuetai","searchable":1,"changeable":0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/pg.jar"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}],
