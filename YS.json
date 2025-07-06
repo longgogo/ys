@@ -75,20 +75,20 @@
 
 
 //肥猫	
-{"key":"潮流","name":"🏜┃潮流┃影视","type":3,"api":"csp_AppRJ","ext":"vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"梦回","name":"🏈┃梦回┃影视","type":3,"api":"csp_AppRJ","ext":"Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"星辉","name":"🦢┃星辉┃影视","type":3,"api":"csp_AppRJ","ext":"jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_Lgyy","name":"✨️️┃流光┃影视","type":3,"api":"csp_Lgyy","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_Siren","name":"🎉️┃私人┃影城","type":3,"api":"csp_Siren","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_Tvyb","name":"☁️️┃云播┃影视","type":3,"api":"csp_Tvyb","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_KmeiJu","name":"🍐┃鸭梨┃影视","type":3,"api":"csp_KmeiJu","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key":"csp_FourK","name":"🐿️┃绝对┃影视","type":3,"api":"csp_FourK","ext":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key": "干饭","name": "🍚┃干饭┃APP","type": 3,"api": "csp_AppGet","ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key": "猫抓","name": "🐱┃猫抓┃APP","type": 3,"api": "csp_AppGet","ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key": "行动","name": "😌┃行动┃APP","type": 3,"api": "csp_AppSy","ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key": "肥猫","name": "🐼┃肥猫┃APP","type": 3,"api": "csp_AppGet","ext": "4wSF77WNzVYxpDQF3Vf/eAoVqKf1nKdv5MpKtrhokKJN288M3lP16ZeoM36I71sJ","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
-{"key": "猫抓","name": "🐱┃猫抓┃APP","type": 3,"api": "csp_AppGet","ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/肥猫.jar"},
+{"key":"潮流","name":"🏜┃潮流┃影视","type":3,"api":"csp_AppRJ","ext":"vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"梦回","name":"🏈┃梦回┃影视","type":3,"api":"csp_AppRJ","ext":"Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"星辉","name":"🦢┃星辉┃影视","type":3,"api":"csp_AppRJ","ext":"jsSMEuhTZIAHjnUoLBzKdlRu5exzno6M4efF8LzwjWM=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"csp_Tvyb","name":"☁️️┃云播┃影视","type":3,"api":"csp_Tvyb","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"csp_Qiyou","name":"🥝┃奇优┃影视","type":3,"api":"csp_Qiyou","ext":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"csp_KmeiJu","name":"🍐┃鸭梨┃影视","type":3,"api":"csp_KmeiJu","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key":"csp_FourK","name":"🐿️┃绝对┃影视","type":3,"api":"csp_FourK","ext":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "干饭","name": "🍚┃干饭┃APP","type": 3,"api": "csp_AppGet","ext": "Ygx7wpu8Zcm70i88iO9WMRvxQZdMqIapMqvlBKPmjCP60xrvslJlJFIwHepviTkKbgCK9nn25i0k7xnWVX0Y7g==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "猫抓","name": "🐱┃猫抓┃APP","type": 3,"api": "csp_AppGet","ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "行动","name": "😌┃行动┃APP","type": 3,"api": "csp_AppSy","ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE=","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "肥猫","name": "🐼┃肥猫┃APP","type": 3,"api": "csp_AppGet","ext": "4wSF77WNzVYxpDQF3Vf/eAoVqKf1nKdv5MpKtrhokKJN288M3lP16ZeoM36I71sJ","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "猫抓","name": "🐱┃猫抓┃APP","type": 3,"api": "csp_AppGet","ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "仓鼠","name": "🐹┃耗子┃APP","type": 3,"api": "csp_AppGet","ext": "uOx4WoHPKe5LbDsNX+u7yPwU6Ups0duUFWxZbQqPo2oF+jkgV7jbW6aOO1kS4+9PdDFoRHhRxKKvcUOgzloTKw==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
+{"key": "黑猫","name": "🐼┃黑猫┃APP","type": 3,"api": "csp_AppGet","ext": "cLeOXZXsq65z+2s8qkWsD+GYhlTxoLn2cNnZiAXyiQPBfOCR3nVfgmZWdkvjSaqJFD9Bmb+U0RVCI9wv8BMVIg==","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/Panda.jpg"},
 
 
 //其他
