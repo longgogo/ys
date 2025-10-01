@@ -18,6 +18,7 @@
 
 {"key":"直播转点播1","name":"📡电视直播","type":3,"api":"https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},
 
+{"key": "Wexbiliys","name": "🅱‍哔哔┃影视🅱‍","type": 3,"api": "csp_WexbiliysGuard","searchable": 1,"changeable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/51354B2_773_wex_20251001025150819newMediaImage.png"},	
 {"key":"Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/吾爱.jar"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"浪酷弹幕","name":"💘浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
