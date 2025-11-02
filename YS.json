@@ -29,7 +29,8 @@
 {"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/New6v.php"},
 {"key":"Dygang","name":"电影港┃超清","type":3,"api":"csp_Dygang","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/欧歌.jar"},
 {"key": "csp_Xunlei8","name": "《磁力🔹迅雷》","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/天微.jar"},
-
+{"key": "csp_Xlys","name": "🏔️┃修罗┃磁力","type": 3,"api": "csp_Xlys","ext": "https://xl01.com.de","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/feimao.png"},
+	
 //饭太硬
 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}},
 {"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
