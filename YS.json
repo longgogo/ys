@@ -30,7 +30,7 @@
 {"key":"Dygang","name":"电影港┃超清","type":3,"api":"csp_Dygang","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/欧歌.jar"},
 {"key": "csp_Xunlei8","name": "《磁力🔹迅雷》","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/天微.jar"},
 {"key": "csp_Xlys","name": "🏔️┃修罗┃磁力","type": 3,"api": "csp_Xlys","ext": "https://xl01.com.de","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/feimao.png"},
-	
+
 //饭太硬
 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.com/","danMu": "弹"}},
 {"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -40,8 +40,7 @@
 {"key": "欢视","name": "👓欢视┃多线","type": 3,"api": "csp_AppTTGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "uqGL1bNENExT9fFAy5mE5qU="},
 {"key": "苹果","name": "🍎苹果┃不卡","type": 3,"api": "csp_LiteAppleGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"Lib","name":"🌟立播┃秒播","type":3,"api":"csp_LibvioGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-//{"key": "荐片","name": "🐭荐片┃P2P","type": 3,"api": "csp_JPJGuard","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 0},
-{"key": "賤賤","name": "💥賤片┃p2p💥","type": 3,"api": "csp_WexJianpianGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
+{"key": "荐片","name": "🐭荐片┃P2P","type": 3,"api": "csp_JPJGuard","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key": "比特","name": "🍄比特┃手机","type": 3,"api": "csp_BttwooGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "厂长","name": "📔厂长┃秒播","type": 3,"api": "csp_NewCzGuard","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "原创","name": "☀原创┃秒播","type": 3,"api": "csp_YCyzGuard","timeout": 30,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -95,14 +94,6 @@
 {"key": "百度","name": "百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"],"header": {"User-Agent": "Mozilla/5.0"}},
 {"key": "雨滴","name": "雨滴｜APP","type": 3,"quickSearch": 1,"api": "csp_AppGet","ext": {"url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey": "k9o3p2c8b7m3z0o8","dataIv": "k9o3p2c8b7m3z0o8","deviceId": "","version": "100"},"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/spider.jar"},
 {"key":"巧技二","name":"💢聚搜┃仅搜索","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707","jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"},
-{"key": "Wexhanxiaoquan","name": "💥韩剧┃秒播💥","type": 3,"api": "csp_WexhanxiaoquanGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "Wexrenrenyingshi","name": "💥人人┃秒播💥","type": 3,"api": "csp_WexrenrenyingshiGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "WexkuihuatvGuard","name": "💥葵花┃影视💥","type": 3,"api": "csp_WexkuihuatvGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "Wexbaozitv","name": "🎇包子┃秒播🎇","type": 3,"api": "csp_WexbaozitvGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "WexikanbotGuard","name": "🎇爱看┃采集🎇","type": 3,"api": "csp_WexikanbotGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "WexhubanGuard","name": "💓虎斑┃4K💓","type": 3,"api": "csp_WexhubanGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "csp_Nmys","name": "🎇伯伯┃秒播🎇","type": 3,"api": "csp_WexNmysGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
-{"key": "WexbttwoGuard","name": "🎇大鼻涕┃秒播🎇","type": 3,"api": "csp_WexbttwoGuard","searchable": 1,"changeable": 1,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
 
 //XBPQ	
 {"key":"csp_Kimivod","name":"Kimivod","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/kimivod.json","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/忈.jar"},
@@ -174,7 +165,6 @@
 {"key":"csp_Bili_MTV","name":"🅱️┃歌曲┃演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/歌曲.json"},
 {"key": "直播转点播","name": "音乐🎧点播","type": 3,"api": "https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js","ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/f_85446651.png","jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"},
 {"key":"csp_Bili_Yinl2","name":"🅱️┃音悦┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/音悦.json"},
-{"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktvGuard","searchable": 1,"changeable": 0,"jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}],
 
 //解析
