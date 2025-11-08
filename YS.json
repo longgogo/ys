@@ -14,6 +14,7 @@
 "sites":[
 {"key":"lzxw_豆瓣","name":"【不要相信广告内容！！！】","type":3,"api":"csp_Douban","searchable":0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
 
+{"key": "Wexrenrenyingshi","name": "💥人人┃秒播💥","type": 3,"api": "csp_WexrenrenyingshiGuard","searchable": 1,"changeable": 1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/wex.png"},
 {"key":"人人","name":"人人｜4K","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/RRDYW.js","style":{"type":"list"},"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 {"key":"drpy_js_哔哩影视","name":"哔哩影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js","ext":"https://gitee.com/zhangsilu159/box/raw/master/js/哔哩影视.js","jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/香雅情.jar"},
 
