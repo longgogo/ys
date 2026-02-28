@@ -5,10 +5,10 @@
 
 //直播地址
 "lives": [
-	{"name":"仓2","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
-	{"name":"仓1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
-	{"name":"仓3","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
-           ],	
+	{"name":"kstore仓","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
+	{"name":"Github仓","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
+	{"name":"notabug仓","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
+         ],	
 
 //影视开始	
 "sites":[
