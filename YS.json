@@ -1,13 +1,16 @@
+						//本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>	
+//开头每一段编号	
 {
-"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/fty3.jar",
-//"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/小米.jar",
+	"spider":"https://gitee.com/zhangsilu159/box/raw/master/jar/fty3.jar",
 
+//直播地址
 "lives": [
-{"name":"仓2","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
-{"name":"仓1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
-{"name":"仓3","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
-	],	
-	
+	{"name":"仓2","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
+	{"name":"仓1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
+	{"name":"仓3","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
+           ],	
+
+//影视开始	
 "sites":[
 {"key":"lzxw_豆瓣","name":"【不要相信广告内容！！！】","type":3,"api":"csp_Douban","searchable":0,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/lzxw.php"},
 
@@ -129,7 +132,7 @@
 {"key":"csp_Bili_Yinl2","name":"🅱️┃音悦┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/音悦.json"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}],
 
-//解析
+//解析地址
 "parses":[
 	//{"name":"Web聚合","type":3,"url":"Web"},
 	//{"name":"解析聚合","type":3,"url":"Demo"},
@@ -142,7 +145,7 @@
 	{"name":"虾米","url":"https://jx.xmflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"红狐","url":"https://player.mrgaocloud.com/player/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}}],
 
-//去广告
+//去广告规则
 "doh":[
 	{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
 	{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
@@ -183,11 +186,11 @@
 
 //解码
 "ijk":[
-{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+	{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},	{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},	{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},	{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
+	{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},	{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},	{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},	{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 //flags
-"flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
-"ads":["www.72418.com","mozai.4gtv.tv","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+	"flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
+	"ads":["www.72418.com","mozai.4gtv.tv","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 //本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
-}
+	}
