@@ -138,7 +138,7 @@
 	//{"name":"Json并发","type":2,"url":"Parallel"},
 
 	{"name":"欧歌解析","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-    {"name":"789","url":"https://jiexi.789jiexi.icu:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}}],
+    {"name":"789","type":1,"url":"https://jiexi.789jiexi.icu:4433/?url="},
 	{"name":"-欧歌-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="},
 	{"name":"欧歌APP","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="},
 	{"name":"虾米","url":"https://jx.xmflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
