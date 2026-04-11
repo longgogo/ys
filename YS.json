@@ -14,7 +14,7 @@
         }
       ]
     }
-  ],
+  ]
   "epg": "https://your-domain.pages.dev/epg/51zmt/2026-04-11/kstore仓.json"
 },
 	//{"name":"kstore仓","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
