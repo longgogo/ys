@@ -6,20 +6,9 @@
 //直播地址
 "lives": [
 	{
-    "group": "Channels",
-      "channels": [
-        {
-          "name": "kstore仓",
-          "urls": ["https://5403.kstore.space/Live/tv.json"]
-        }
-      ]
-    }
-  ],
-  "epg": "https://your-domain.pages.dev/epg/51zmt/2026-04-11/kstore仓.json"
-}
-	//{"name":"kstore仓","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
-	//{"name":"Github仓","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
-	//{"name":"notabug仓","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
+   	{"name":"kstore仓","type":0,"url":"https://5403.kstore.space/Live/tv.json","playerType":1},
+	{"name":"Github仓","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
+	{"name":"notabug仓","type":0,"url":"https://notabug.org/tvlive/live/raw/master/TV.txt","playerType":1}
            ],	
 
 //影视开始	
