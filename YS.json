@@ -109,14 +109,14 @@
         "爱情片",
         "恐怖片",
         "犯罪片",
-        "悬疑片"，
-        "惊悚片"，
+        "悬疑片",
+        "惊悚片",
         "剧情片",
         "冒险片",
         "记录片",
         "动作片",
         "日本剧",
-        "泰剧"，
+        "泰剧",
         "国产综艺",
         "港台综艺",
         "欧美综艺",
@@ -166,6 +166,7 @@
 //biubiu自定义
 {"key":"csp_biubiu_奈飞中文","name":"奈飞中文(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/奈飞中文.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/zy2.jar"},
 {"key":"csp_biubiu_TVB云播","name":"TVB云播(自定义）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/TVB云播.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/zy2.jar"},  
+  
 
 //儿童	
 {"key":"哔哩哔哩","name":"哔站┃成人","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/哔站成人.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/2.jar"},
