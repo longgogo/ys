@@ -1,16 +1,21 @@
 {
-  "spider": "https://gitee.com/zhangsilu159/box/raw/master/jar/fty3.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fty.jar",
   "sites": [
     {
-      "key": "csp_Bili_yanchh",
-      "name": "🅱️┃歌手┃合集",
+      "key": "MTV",
+      "name": "🎶明星┃MV",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/歌手.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar"
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      }
     },
     {
       "key": "Iktv",
@@ -19,7 +24,39 @@
       "api": "csp_WexIktvGuard",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/434B57F_773_wex_20251205021657228newMediaImage.png"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/wxr.txt"
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔合集┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哔演唱会┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+      }
     },
     {
       "key": "MTV1",
@@ -35,68 +72,6 @@
       "changeable": 0
     },
     {
-      "key": "MTV",
-      "name": "🎶明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/1.json"
-      }
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/2.json"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/3.json"
-      }
-    },
-    {
-      "key": "B站",
-      "name": "🅱️哔哩哔哩✨资源大全",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/B站.json",
-        "cookie": ""
-      }
-    },
-    {
       "key": "ChuXin",
       "name": "初心｜音乐",
       "type": 3,
@@ -104,7 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/fish.png"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish.png"
     },
     {
       "key": "aiting",
@@ -114,25 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/fish.png"
-    },
-    {
-      "key": "Music24bit",
-      "name": "无损｜音乐",
-      "type": 3,
-      "api": "csp_Music24bit",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "categories": [
-          "周杰伦",
-          "林俊杰",
-          "陈奕迅",
-          "邓紫棋",
-          "薛之谦"
-        ]
-      },
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/fish.png"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish.png"
     },
     {
       "key": "csp_Bili_Nvtuan",
@@ -143,29 +100,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/女团.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar"
-    },
-    {
-      "key": "csp_Bili_MTV",
-      "name": "🅱️┃歌曲┃演唱",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/歌曲.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar"
-    },
-    {
-      "key": "csp_Bili_Yinl2",
-      "name": "🅱️┃音悦┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/音悦.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/HCCX.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/HCCX.jar"
     },
     {
       "key": "酷狗",
@@ -181,54 +116,55 @@
           }
         ]
       },
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/feimao.png"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"
     },
     {
-      "key": "js_车载MV",
-      "name": "车载🎧音乐",
+      "key": "Buguyy",
+      "name": "🐦┃布谷┃音乐",
       "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/车载MV.js",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
-    },
-    {
-      "key": "yinyue",
-      "name": "榜单🎧音乐",
-      "type": 3,
-      "api": "csp_Kugou",
+      "api": "csp_BuguyyFishGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
     },
     {
-      "key": "分类音乐",
-      "name": "分类🎧音乐",
+      "key": "ChuXin",
+      "name": "💕┃初心┃音乐",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_ChuXinFishGuard",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/4.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
     },
     {
-      "key": "舞蹈音乐",
-      "name": "舞蹈🎧音乐",
+      "key": "aiting",
+      "name": "🎧┃爱听┃音乐",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/吾爱舞蹈.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
+      "api": "csp_AiTingMusicFishGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
+    },
+    {
+      "key": "Music24bit",
+      "name": "🎼┃无损┃音乐",
+      "type": 3,
+      "api": "csp_Music24bitFishGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "categories": [
+          "周杰伦",
+          "林俊杰",
+          "陈奕迅",
+          "邓紫棋",
+          "薛之谦"
+        ]
+      },
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
     },
     {
       "key": "哟哟音乐",
@@ -239,15 +175,15 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/DJyyyyw.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/danmu.jar"
     },
     {
-      "key": "直播转点播",
-      "name": "音乐🎧点播",
+      "key": "直播转点播1",
+      "name": "📡电视直播",
       "type": 3,
-      "api": "https://gitee.com/zhangsilu159/box/raw/master/js/直播转点播.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/f_85446651.png",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/星云日记.jar"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/zbzdb.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/直播.txt",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/星云日记.jar"
     },
     {
       "key": "drpy_js_蜻蜓FM",
@@ -256,42 +192,7 @@
       "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/蜻蜓FM.js",
       "playerType": "2",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
-    },
-    {
-      "key": "hipy_js_种子音乐[听]",
-      "name": "种子🎧音乐",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/种子音乐[听].js",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
-    },
-    {
-      "key": "hipy_js_贝乐虎[儿]",
-      "name": "贝乐🎧儿歌",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/贝乐虎[儿].js",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
-    },
-    {
-      "key": "健身瑜伽",
-      "name": "健身🎧瑜伽",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/Music/refs/heads/main/健身瑜伽.json",
-      "jar": "https://gitee.com/zhangsilu159/box/raw/master/jar/danmu.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/danmu.jar"
     }
   ],
   "parses": [
