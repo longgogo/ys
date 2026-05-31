@@ -2,20 +2,24 @@
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fty.jar",
   "sites": [
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "key": "TuXiaoBei",
+      "name": "🐰┃小兔┃少儿",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_TuXiaoBeiFishGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
     },
     {
+      "key": "BeiLeHu",
+      "name": "🐯┃小虎┃少儿",
+      "type": 3,
+      "api": "csp_BeiLeHuFishGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fish05310919.png"
+    },
+   {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
