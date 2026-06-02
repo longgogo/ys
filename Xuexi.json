@@ -2,6 +2,20 @@
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/fty.jar",
   "sites": [
     {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
@@ -16,7 +30,7 @@
       "ext": {
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
-    }，
+    },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
