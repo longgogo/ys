@@ -85,7 +85,7 @@
       "name": "Json聚合",
       "type": 3,
       "url": "Demo"
-    }，
+    },
     {
       "name": "Web聚合",
       "type": 3,
@@ -112,7 +112,7 @@
           "tucheng",
           "sohu",
           "搜狐",
-          "letv"，
+          "letv",
           "乐视",
           "mgtv",
           "芒果",
@@ -219,11 +219,11 @@
         "vip.kuaikan"
       ],
       "regex": [
-        "15.32"，
-        "15.231"，
+        "15.32",
+        "15.231",
         "18.066"
       ]
-    }，
+    },
     {
       "name": "♻️360",
       "hosts": [
@@ -272,7 +272,7 @@
       "name": "♻️火山",
       "hosts": [
         "huoshan.com"
-      ]，
+      ],
       "regex": [
         "item_id="
       ]
