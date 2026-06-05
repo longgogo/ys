@@ -25,7 +25,7 @@
 {"key": "csp_XYQHiker_农民影视","name":"🧑🏻农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/农民影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/香雅情.jar"},
   
 //磁力
-{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
+{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json"，"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
 //{"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/New6v.php"},
 {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
 {"key":"Dygang","name":"电影港┃超清","type":3,"api":"csp_Dygang","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/欧歌.jar"},
@@ -111,10 +111,10 @@
         "台湾剧",
         "欧美剧",
         "动作片",
-        "科幻片",
+        "科幻片"，
         "战争片",
         "奇幻片",
-        "喜剧片",
+        "喜剧片"，
         "爱情片",
         "恐怖片",
         "犯罪片",
@@ -202,7 +202,7 @@
 	//{"name":"Json轮询","type":2,"url":"Sequence"},
 	//{"name":"Json并发","type":2,"url":"Parallel"},
 
-	{"name":"789解析","url":"https://jiexi.789jiexi.icu:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}}
+	{"name":"789解析","url":"https://jiexi.789jiexi.icu:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"默认A","url":"https://json.fongmi.cc/web?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"CK解析","url":"https://www.ckplayer.vip/jiexi/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"虾米解析","url":"https://jx.xmflv.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","qq预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header":{"User-Agent":"Mozilla/5.0"}}
