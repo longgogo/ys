@@ -25,7 +25,7 @@
 {"key": "csp_XYQHiker_农民影视","name":"🧑🏻农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/农民影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/香雅情.jar"},
   
 //磁力
-{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json"，"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
+{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
 //{"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/New6v.php"},
 {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
 {"key":"Dygang","name":"电影港┃超清","type":3,"api":"csp_Dygang","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/欧歌.jar"},
