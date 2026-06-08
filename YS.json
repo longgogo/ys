@@ -25,7 +25,7 @@
 {"key": "csp_XYQHiker_农民影视","name":"🧑🏻农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/农民影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/香雅情.jar"},
   
 //磁力
-{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
+{"key": "csp_Jianpian","name": "✂️荐片","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/jianpian.json"，"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/Yoursmile.jar"},
 //{"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/New6v.php"},
 {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
 {"key":"Dygang","name":"电影港┃超清","type":3,"api":"csp_Dygang","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/欧歌.jar"},
@@ -39,7 +39,7 @@
 {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "热播","name": "📺热播┃多线","type": 3,"api": "csp_AppTTGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "uqGL1bNENExT7/hGxpSE5qU="},
 {"key": "奶酪","name": "🧀奶酪┃秒播","type": 3,"api": "csp_T4Guard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
-{"key": "厂长","name": "📔厂长┃秒播","type": 3,"api": "csp_NewCzGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "厂长","name": "📔厂长┃不卡","type": 3,"api": "csp_NewCzGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "剧圈","name": "🐻剧圈┃多线","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 {"key": "比特","name": "🍄比特┃不卡","type": 3,"api": "csp_BttwooGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "立播","name": "🌟立播┃不卡","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {  "Cloud-drive": "tvfan/Cloud-drive.txt",  "siteUrl": "https://www.libvio.run"}},
