@@ -64,11 +64,12 @@
 
 //肥猫
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
-//{"key":"csp_SaoHuo","name":"🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
-//{"key":"csp_Jpys","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
+{"key":"csp_SaoHuo","name":"🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
+{"key":"csp_Jpys","name":"🥇️┃金牌┃影视","type":3,"api":"csp_Jpys","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
+{"key": "一碗","name": "🥣┃一碗┃APP","type": 3,"api": "csp_AppGet","ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
+{"key": "蔬菜","name": "🫛┃蔬菜┃APP","type": 3,"api": "csp_AppGet","ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/feimao.png"},
 
 //老4K秒播
-{"key": "蔬菜","name": "蔬菜┃零一","type": 3,"api": "csp_AppGet","ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725","jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0"},
 {"key": "麦田","name": "麦田┃十六","type": 3,"api": "csp_AppV6","ext": "http://172.247.227.203:25321/mtys.php","jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"},
 {"key": "听心99","name": "欣欣┃十七","type": 3,"api": "csp_App99","ext": {  "host": "https://api.12321app.com",  "LoginPath": "/app/log",  "version": "0b4328287a5d953e",  "appkey": "a0a18659a9977a47e53442cd084b536c",  "versionName": "2.8.1",  "name": "听心视频",  "package": "com.iksp.adsys.jjsp",  "buildNumber": "2001",  "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"},"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"},
 {"key": "追番达人99","name": "追番┃十八","type": 3,"api": "csp_App99","ext": {  "host": "https://app2026.ystva.com",  "LoginPath": "/app/log",  "version": "f341a4e57976d59e",  "appkey": "f3a8a193a7dc782cbc294159fcd91faf",  "versionName": "6.1.1",  "name": "追番达人",  "package": "com.yuaiweiwu.aixue.zfdr",  "buildNumber": "2001",  "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"},"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf"},
@@ -83,8 +84,6 @@
 {"key": "葫芦","name": "葫芦┃零九","type": 3,"api": "csp_AppGet","jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf","ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"},
 {"key": "豪华资源","name": "豪华┃采三","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod","playUrl": "","searchable": 1,"quickSearch": 1,"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/l4k.jar"},
 {"key": "鲨鱼影视","name": "鲨鱼┃零四","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://影视仓接口.top/禁止贩卖/lib/shayu.json","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/l4k.jar"},
-{"key": "csp_SaoHuo","name": "火火┃十五","type": 3,"jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf","api": "csp_SaoHuo"},
-{"key": "csp_Jpys","name": "金牌┃二十","type": 3,"timeout": 12,"searchable": 1,"quickSearch": 0,"api": "csp_Jpys","jar": "https://cn.oilgasgpts.com/resource/profile/2026/05/18/NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf","ext": "https://ghw9zwp5.com/"},
 {
       "key": "大师兄",
       "name": "大师兄┃二八",
