@@ -15,6 +15,8 @@
 "sites":[
 {"key":"lzxw_豆瓣","name":"【不要相信广告内容！！！】","type":3,"api":"csp_Douban","searchable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/lzxw.php"},
 
+{"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {  "type": "rect",  "ratio": 1.597},"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/07250016.png"},
+
 {"key":"drpy_js_哔哩影视","name":"哔哩影视[js]","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/js/refs/heads/main/Bibi.js","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/香雅情.jar"},
 {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {  "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},  
 
