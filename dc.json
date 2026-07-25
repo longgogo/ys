@@ -1,19 +1,20 @@
 {
     "urls": 
     [
+{"name":"Github仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/ys/refs/heads/main/YS.json"},//https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/ys/main/YS.json  
 {"name":"kstore仓","url":"https://5403.kstore.space/ys/y.json"},
 {"name":"codeberg仓","url":"https://codeberg.org/zhangsilu159/ys/raw/branch/main/ys.json"},
-{"name":"Github仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/ys/refs/heads/main/YS.json"},//https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/ys/main/YS.json
-{"name":"饭太硬","url":"http://www.饭太硬.net/tv"},                 //  http://fty.xxooo.cf/tv              http://fty.888484.xyz/tv
-{"name":"快乐接口","url":"http://影视仓接口.top"},
+{"name":"饭太硬","url":"http://www.饭太硬.net/tv"},                 //      http://fty.xxooo.cf/tv          http://fty.888484.xyz/tv
+{"name":"老4K秒播","url":"http://宝盒接口.top"},
 {"name":"王二小","url":"http://tvbox.王二小放牛娃.top"},   
 {"name":"♬音乐接口","url":"https://5403.kstore.space/Json/yinyeu.json"},
 {"name":"☀学生学习","url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/ys/refs/heads/main/Xuexi.json"},
-{"name":"我不是.摸鱼儿","url":"http://我不是.摸鱼儿.top"},
-{"name":"肥猫","url":"http://feimao.pro"},        
+{"name":"★集多","url":"http://rihou.cc:88/demo.php"},
+{"name":"肥猫","url":"http://肥猫.net/tv"}, 
 {"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
-{"name":"OmniBox","url":"http://192.168.1.3:7023/api/subscription/2068505664119902208/tvbox2?token=DCEejm2eqJ8vmI5cfDQE49r6MTNWSV5d"},
-{"name":"老4K秒播","url":"http://宝盒接口.top"},
+{"name":"★潇洒","url":"https://9877.kstore.space/one.json"},
+{"name":"★欧歌","url":"https://xn--jory77o.v.nxog.top/m"},
+{"name":"★嗷呜","url":"https://9763.kstore.vip/aowu.json"},
 {"name":"★香雅情","url":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"}
 
 
