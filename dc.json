@@ -4,6 +4,7 @@
 {"name":"Github仓","url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/ys/refs/heads/main/YS.json"},//https://github.moeyy.xyz/https://raw.githubusercontent.com/longgogo/ys/main/YS.json  
 {"name":"kstore仓","url":"https://5403.kstore.space/ys/y.json"},
 {"name":"codeberg仓","url":"https://codeberg.org/zhangsilu159/ys/raw/branch/main/ys.json"},
+{"name":"katelyatv","url":"http://192.168.1.3:3030/api/tvbox?format=json"},
 {"name":"饭太硬","url":"http://www.饭太硬.net/tv"},                 //      http://fty.xxooo.cf/tv          http://fty.888484.xyz/tv
 {"name":"老4K秒播","url":"http://宝盒接口.top"},
 {"name":"王二小","url":"http://tvbox.王二小放牛娃.top"},   
