@@ -39,6 +39,10 @@
 {"key":"高清剧场","name":"高清剧场","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/高清剧场.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},
 {"key":"简云影视","name":"简云影视","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/简云影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},
 {"key":"ZIP0影视","name":"ZIP0影视","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/ZIP0影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},
+{"key":"可可影视","name":"可可影视","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/可可影视.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},
+{"key":"66大片网","name":"66大片网","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/66大片网.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},
+{"key":"剧踪电影网","name":"剧踪电影网","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/剧踪电影网.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"}, 
+{"key":"毒舌电影","name":"毒舌电影","type":3,"api":"csp_XBPQ","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/json/refs/heads/main/毒舌电影.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/忈.jar"},  
 
 //饭太硬
 {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
