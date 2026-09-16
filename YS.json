@@ -272,7 +272,6 @@
 
 //flags
 	"flags":["youku","优酷","优酷","优酷视频","qq","腾讯","腾讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱奇艺","m1905","xigua","letv","leshi","乐视","乐视","sohu","搜狐","搜狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒果TV","bilibili","哔哩","哔哩哔哩"],
-	"spider_url":"fallback","spider_md5":"f6da9ab71e4a104eb3f9f7c9ab162b22","spider_cached":false,"spider_real_size":621,"spider_tried":14,"spider_success":false,"spider_backup":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/JAR/XC.jar","spider_candidates":["https://deco-spider.oss-cn-hangzhou.aliyuncs.com/XC.jar","https://deco-spider-1250000000.cos.ap-shanghai.myqcloud.com/XC.jar","https://cdn.gitcode.net/qq_26898231/TVBox/-/raw/main/JAR/XC.jar","https://cdn.gitee.com/q215613905/TVBoxOS/raw/main/JAR/XC.jar","https://gitcode.net/qq_26898231/TVBox/-/raw/main/JAR/XC.jar","https://gitee.com/q215613905/TVBoxOS/raw/main/JAR/XC.jar","https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.jar;md5;f6da9ab71e4a104eb3f9f7c9ab162b22","https://gitcode.net/qq_26898231/TVBox/-/raw/main/JAR/XC.jar","https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"]},
 	"ads":["www.72418.com","mozai.4gtv.tv","wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
 //本接口免费分享给小白测试和学习使用，请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。<请勿相信视频中广告>
 	}
