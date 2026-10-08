@@ -6,7 +6,8 @@
 "lives":[
 	{"name":"kstore仓","type":0,"url":"https://5403.kstore.space/Live/tv.txt","playerType":1},
 	{"name":"Github仓","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/live/refs/heads/main/tv.txt","playerType":1},
-	{"name":"	ZBDS","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","playerType":1},
+    {"name":"4K","type":0,"url":"http://192.168.1.3:8767/all.m3u","playerType":1},
+	{"name":"ZBDS","type":0,"url":"https://live.zbds.top/tv/iptv4.txt","playerType":1},
 	{"name":"D佬直播","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":1},		
 	{"name":"	akiralereal/IPTV","type":0,"url":"http://192.168.1.3:1905/","playerType":1},
 	{"name":"Collect-IPTV","type":0,"url":"https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u","playerType":1}
@@ -112,7 +113,6 @@
 {"key":"永乐影视","name":"☀永乐影视（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/永乐影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
 {"key":"饭搭子影视","name":"☀饭搭子影视（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/饭搭子影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
 {"key":"豆花电影网","name":"☀豆花电影网（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/豆花电影网.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
-{"key":"嘟色影视","name":"☀嘟色影视（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/嘟色影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
 {"key":"嘀嗒影视","name":"☀嘀嗒影视（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/嘀嗒影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
 {"key":"电影人生视","name":"☀电影人生（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/电影人生.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
 {"key":"毒舌影视","name":"☀毒舌影视（Py）","type":3,"api":"https://raw.githubusercontent.com/longgogo/py/refs/heads/main/毒舌影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/longgogo/jar/refs/heads/main/jar/tvkj.jar"},
